@@ -12,4 +12,4 @@ average_value = sum_values / 3
 print(f"Sum: {sum_values}")
 print(f"Product: {product_values}")
 print(f"Average: {average_value:.2f}")
-
+print("Thank you for your input")
